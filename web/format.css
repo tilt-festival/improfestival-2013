@@ -1,0 +1,48 @@
+
+#wrapperbutton {
+margin: 0;
+padding: 0;
+width:auto;
+	}
+
+.accordionButton {	
+width: 36em;
+font-family: Georgia, serif;
+font-weight: 400;
+text-align: center;
+font-size: 1em;
+margin-left: auto;
+margin-right: auto;
+padding-top: 1.5%;
+padding-bottom: 1.5%;
+background-color: #273582;
+color:#ffffff;
+margin-top: 0.5em;
+	_float: none;
+	cursor: pointer;
+	}
+	
+.accordionContent 
+{
+width:auto;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+padding-left: auto;
+margin-top: 1em;
+padding-right: auto;
+padding-top: 2%;
+padding-bottom: 1em;
+background-color: white;
+}
+	
+
+.on {
+	color: white;
+	background: #C71552;
+	}
+	
+.over {
+		background-color: #C71552;
+		color: white;
+	}
